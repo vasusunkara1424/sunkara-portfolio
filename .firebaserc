@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "my-profile-6ece1"
-  }
+  },
+  "targets": {
+    "my-profile-6ece1": {
+      "hosting": {
+        "sunkaraPortfolio": [
+          "sunkara-portfolio"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
